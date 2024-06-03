@@ -38,3 +38,5 @@
 32. Conditional Bean creation using Profiles
 33. Monitoring Spring Boot applications using SpringBoot Actuator & Spring Boot Admin
 34. Deploying SpringBoot App into cloud using AWS Elastic Beanstalk
+
+> [GitHub Repo for instructor code](https://www.github.com/eazybytes/spring)
